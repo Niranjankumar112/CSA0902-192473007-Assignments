@@ -3,7 +3,7 @@
 **Student Name:** T.Niranjan Kumar  
 **Register Number:**192473007  
 **Java Version:** JDK 8 or later  
-**Repository name:** `CSA0902-<192473007>-Assignment1`
+**Repository name:** `CSA0902-192473007-Assignment1`
 
 ## Project contents
 - `Assignment_Report.md` – simple answers and explanations for Tasks 1–12.
