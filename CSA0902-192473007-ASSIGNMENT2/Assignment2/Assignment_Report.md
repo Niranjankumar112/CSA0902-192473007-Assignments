@@ -5,7 +5,7 @@
 **Register Number:** 192473007  
 **Java Version:** JDK 8 or later  
 **Required Repository Name:** `CSA09-192473007-Assignment2`  
-**GitHub Link:** To be added after creating the Assignment 2 repository
+**GitHub Link:** https://github.com/Niranjankumar112/CSA0902-192473007-Assignments/edit/main/CSA0902-192473007-ASSIGNMENT2/Assignment2/Assignment_Report.md
 
 > Important: This report provides the design, implementation, expected outputs and measurement procedure. Run every program on your own laptop and replace the measurement placeholders with your actual results. Do not submit machine timings as your own unless you executed them.
 
