@@ -2,8 +2,6 @@
 
 **Student:** T. Niranjan Kumar  
 **Register Number:** 192473007  
-**Partner:** __________________  
-**GitHub:** __________________
 
 This report is aligned with the supplied CO3 assignment. See `Assignment_Report.docx` for the full structured report. Run all tasks and fill the blank evidence and measurement fields with actual results. Do not invent timings or screenshots.
 
