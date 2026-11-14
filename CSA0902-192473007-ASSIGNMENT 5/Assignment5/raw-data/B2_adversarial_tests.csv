@@ -1,0 +1,5 @@
+Input case,Unsafe result,Prepared result,File-store response,Observation
+SQL injection,,,,
+Wrong field count,,,,
+Nonnumeric amount,,,,
+Empty line,,,,
